@@ -1,0 +1,106 @@
+[
+ {
+  "id": 1,
+  "productName": "Avatar maestro del aire",
+  "description": "Personaje FunkoPop de la serie Avatar",
+  "image": "Ang Avatar.PNG",
+  "category": "series infantiles",
+  "price": 35000
+ },
+ {
+  "id": 2,
+  "productName": "Ashi samurai",
+  "description": "Personaje FunkoPop de la serie SamUrai JACK",
+  "image": "Ashi.PNG",
+  "category": "series infantiles",
+  "price": 32000
+ },
+ {
+  "id": 3,
+  "productName": "Donatelo tortugas ninja",
+  "description": "Personade FunkoPop de la serie las Tortugas Ninjas",
+  "image": "Donatelo.PNG",
+  "category": "series infantiles",
+  "price": 37000
+ },
+ {
+  "id": 4,
+  "productName": "Kramer buen policia",
+  "description": " Personaje de FunkoPop de la serie Seinfeld ",
+  "image": "Kramer buen policia.PNG",
+  "category": "series adultos",
+  "price": 35000
+ },
+ {
+  "id": 5,
+  "productName": "Wall-e",
+  "description": "Personaje FunkoPop de la pelicula Wall-e",
+  "image": "Wall-e.PNG",
+  "category": "peliculas",
+  "price": 35000
+ },
+ {
+  "id": 6,
+  "productName": "Dexter",
+  "description": "Personaje FunkoPop de la serie Dexter",
+  "image": "Dexter.PNG",
+  "category": "series infantiles",
+  "price": 35000
+ },
+ {
+  "id": 7,
+  "productName": "Arthur espada",
+  "description": "Personaje FunkoPop de la pelicula The Sword in The Stone",
+  "image": "Arthur espada.PNG",
+  "category": "peliculas",
+  "price": 35000
+ },
+ {
+  "id": 8,
+  "productName": "Eve",
+  "description": "Personaje FunkoPop de la pelicula Wall-E",
+  "image": "Eve.PNG",
+  "category": "peliculas",
+  "price": 35000
+ },
+ {
+  "id": 9,
+  "productName": "Deadpool Barista",
+  "description": "Personaje FunkoPop de la pelicula Deadpool",
+  "image": "deadepool.jpg",
+  "category": "peliculas",
+  "price": 60000
+ },
+ {
+  "id": 10,
+  "productName": "Capitan America",
+  "description": "Personaje FunkoPop de la pelicula Capitan America",
+  "image": "capitan-america.jpg",
+  "category": "peliculas",
+  "price": 60000
+ },
+ {
+  "id": 11,
+  "productName": "Profesor X",
+  "description": "Personaje FunkoPop de las peliculas X-Men",
+  "image": "profesor x.jpg",
+  "category": "peliculas",
+  "price": 60000
+ },
+ {
+  "id": 12,
+  "productName": "Thanos",
+  "description": "Personje FunkoPop del pelicula The Avengers",
+  "image": "thanos.jpg",
+  "category": "peliculas",
+  "price": 60000
+ },
+ {
+  "id": 13,
+  "name": "prueba 1000",
+  "description": "prueba",
+  "category": "in-sale",
+  "price": "75000",
+  "image": "imagen-1647968324000.jpg"
+ }
+]
